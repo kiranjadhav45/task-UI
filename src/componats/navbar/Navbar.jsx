@@ -72,15 +72,3 @@ export default Navbar
 
 
 
-// <div class="d-flex justify-content-start">...</div>
-// <div class="d-flex justify-content-end">...</div>
-// <div class="d-flex justify-content-center">...</div>
-// <div class="d-flex justify-content-between">...</div>
-// <div class="d-flex justify-content-around">...</div>
-
-
-// <div class="d-flex align-items-start">...</div>
-// <div class="d-flex align-items-end">...</div>
-// <div class="d-flex align-items-center">...</div>
-// <div class="d-flex align-items-baseline">...</div>
-// <div class="d-flex align-items-stretch">...</div>
