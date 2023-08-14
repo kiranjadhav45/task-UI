@@ -36,7 +36,7 @@ const Navbar = () => {
                     <div className="d-flex justify-content-between py-3 mx-2">
                         <div className="d-flex align-items-center">
                             <span><FiSquare size={30} color="#03a9f5" /></span>
-                            <span className="logo">Jadhav</span>
+                            <span className="logo">Shivraj</span>
                         </div>
                         <div className="nav-items ">
                             <a className="mx-3" href="">Home</a>
